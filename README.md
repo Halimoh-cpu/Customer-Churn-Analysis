@@ -213,7 +213,7 @@ Telco-Customer-Churn-Analysis/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Telco-Customer-Churn-Analysis.git
+git clone https://github.com/Halimoh-cpu/Telco-Customer-Churn-Analysis.git
 ```
 
 Navigate into the project
@@ -258,14 +258,14 @@ Possible future enhancements include:
 
 ## About Me
 
-**Halimah**
+**Halimoh Olatunji**
 
-Forestry & Wildlife Management Graduate | Aspiring Data Analyst
+Forestry and Wildlife Management Graduate | Aspiring Data Analyst
 
 Passionate about transforming data into meaningful insights that support informed business decisions.
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: *https://www.linkedin.com/in/halimoh-temidayo*
+- GitHub: *https://github.com/Halimoh-cpu*
 
 ---
 
