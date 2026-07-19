@@ -148,6 +148,7 @@ Relationships between customer churn and:
 - Correlation analysis of numerical variables
 - Identification of relationships between tenure, monthly charges, and total charges
 
+<img width="1470" height="1349" alt="correlation_heaatmap" src="https://github.com/user-attachments/assets/47ff7b66-6cbf-4556-937f-68d7f05971ac" />
 
 ---
 
@@ -270,6 +271,3 @@ Passionate about transforming data into meaningful insights that support informe
 
 ---
 
-## License
-
-This project is available under the MIT License.
